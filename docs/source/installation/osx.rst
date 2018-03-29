@@ -13,7 +13,7 @@ Python package
 
    Homebrew may be used here::
 
-       brew install python
+       brew install python@2
 
    .. note::
       In case :file:`powerline.sh` as a client ``socat`` and ``coreutils`` need 
